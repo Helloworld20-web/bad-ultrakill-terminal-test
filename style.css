@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "UltraFont";
+    src: url(VCR_OSD_MONO_1.001.ttf)
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    font-family: "UltraFont";
+    font-size: 260%;
+    color: white;
+
+}
+
+p.user01 {
+    text-align: left;
+    font-family: "UltraFont";
+    font-size: 160%;
+    color: white;
+}
+
+p {
+    text-align: right;
+    font-family: "UltraFont";
+    font-size: 160%;
+    color: white;
+}
+
+p.errorcolor {
+    text-align: left;
+    font-family: "UltraFont";
+    font-size: 160%;
+    color: rgb(255, 0, 0)
+}
+
+p.bigerror {
+    text-align: center;
+    font-family: "UltraFont";
+    font-size: 160%;
+    color: rgb(255, 0, 0)
+}
